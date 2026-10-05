@@ -1,0 +1,10 @@
+name = "hozin-chat"
+main = "src/index.js"
+compatibility_date = "2024-01-01"
+
+# Dibuat via: wrangler d1 create hozin_chat
+# lalu isi database_id di bawah dengan id yang dikembalikan.
+[[d1_databases]]
+binding = "DB"
+database_name = "hozin_chat"
+database_id = "REPLACE_WITH_D1_DATABASE_ID"

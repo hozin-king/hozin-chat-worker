@@ -1,1 +1,7 @@
-{"apkUrl":"https://github.com/hozin-king/HozinNotes/releases/latest","changelog":"- Ekspor HTML: menu editor → Ekspor HTML, hasilkan berkas .html rapi yang bisa dibuka di browser\n- Pengingat bulanan: pilihan 'Setiap bulan' saat memasang pengingat catatan\n- Buka catatan dari hasil pencarian kini otomatis menampilkan bar cari dalam catatan dengan kata kunci terisi, cocok langsung tersorot","force":false,"versionCode":17,"versionName":"1.14"}
+{
+  "apkUrl": "https://github.com/hozin-king/HozinNotes/releases/latest",
+  "changelog": "- Gabungkan catatan: dari menu tahan-lama di daftar, pilih catatan tujuan — isi, gambar, rekaman suara, dan tag sumber dipindah; pengingat ikut bila tujuan belum punya; catatan sumber dipindah ke Sampah (masih bisa dipulihkan)\n- Editor: menu Lainnya → 'Sisipkan tanggal & waktu' menaruh cap waktu (mis. 15 Okt 2026 09:12) tepat di posisi kursor",
+  "force": false,
+  "versionCode": 18,
+  "versionName": "1.15"
+}

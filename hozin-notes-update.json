@@ -1,7 +1,1 @@
-{
-  "apkUrl": "https://github.com/hozin-king/HozinNotes/releases/latest",
-  "changelog": "- Gabungkan catatan: dari menu tahan-lama di daftar, pilih catatan tujuan — isi, gambar, rekaman suara, dan tag sumber dipindah; pengingat ikut bila tujuan belum punya; catatan sumber dipindah ke Sampah (masih bisa dipulihkan)\n- Editor: menu Lainnya → 'Sisipkan tanggal & waktu' menaruh cap waktu (mis. 15 Okt 2026 09:12) tepat di posisi kursor",
-  "force": false,
-  "versionCode": 18,
-  "versionName": "1.15"
-}
+{"apkUrl":"https://github.com/hozin-king/HozinNotes/releases/latest","changelog":"- Daftar catatan kini dikelompokkan per waktu: Disematkan, Hari ini, Kemarin, Minggu ini, Bulan ini, Lebih lama (untuk urutan Terbaru, Terlama, dan Dibuat)\n- Opsi urutan baru: 'Dibuat: terbaru' & 'Dibuat: terlama' — mengurutkan berdasarkan tanggal catatan dibuat, bukan terakhir diubah","force":false,"versionCode":19,"versionName":"1.16"}

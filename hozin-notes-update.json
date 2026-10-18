@@ -1,7 +1,7 @@
 {
   "apkUrl": "https://github.com/hozin-king/HozinNotes/releases/latest",
-  "changelog": "- Urutan Manual: atur sendiri posisi catatan — tahan catatan lalu pilih 'Pindah ke atas/bawah/paling atas' (di mode urut Manual)\n- Bacakan catatan: menu editor kini bisa membacakan judul + isi catatan dengan suara (TextToSpeech Bahasa Indonesia)\n- Pelapor crash: bila aplikasi crash, saat dibuka lagi akan ditawari mengirim laporan ke GitHub agar bisa diperbaiki",
+  "changelog": "- PIN kamuflase: PIN kedua 6 digit (diatur dari Pengaturan) yang membuka Ruang Privat tampak kosong — berguna bila Anda terpaksa membuka vault di depan orang lain\n- Impor Evernote (.enex) kini membawa gambar asli: lampiran gambar diimpor sebagai gambar terenkripsi, bukan cuma penanda [lampiran]",
   "force": false,
-  "versionCode": 20,
-  "versionName": "1.17"
+  "versionCode": 21,
+  "versionName": "1.18"
 }

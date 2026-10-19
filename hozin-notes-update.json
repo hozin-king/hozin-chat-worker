@@ -1,7 +1,1 @@
-{
-  "apkUrl": "https://github.com/hozin-king/HozinNotes/releases/latest",
-  "changelog": "- PIN kamuflase: PIN kedua 6 digit (diatur dari Pengaturan) yang membuka Ruang Privat tampak kosong — berguna bila Anda terpaksa membuka vault di depan orang lain\n- Impor Evernote (.enex) kini membawa gambar asli: lampiran gambar diimpor sebagai gambar terenkripsi, bukan cuma penanda [lampiran]",
-  "force": false,
-  "versionCode": 21,
-  "versionName": "1.18"
-}
+{"apkUrl":"https://github.com/hozin-king/HozinNotes/releases/latest","changelog":"- Bagikan catatan sebagai gambar: menu baru di editor untuk membagikan catatan sebagai kartu gambar (PNG) yang rapi — cocok dibagikan ke media sosial atau chat\n- Pengingat berulang tahunan: opsi \"Setiap tahun\" baru saat mengatur pengingat, cocok untuk ulang tahun & hari peringatan","force":false,"versionCode":22,"versionName":"1.19"}

@@ -1,1 +1,7 @@
-{"apkUrl": "https://github.com/hozin-king/HozinNotes/releases/latest", "changelog": "- Mood harian: catat perasaanmu setiap hari lewat menu ⋯ di daftar catatan (5 pilihan mood, satu entri per hari)\n- Ringkasan mood 30 hari: rata-rata mood, streak hari beruntun, diagram batang harian, dan sebaran mood\n- Buka catatan terkunci dengan sidik jari / wajah (biometrik), tanpa mengetik PIN\n- Badge progres checklist di daftar: lihat \"✓ 3/5 selesai\" langsung di tiap catatan checklist", "force": false, "versionCode": 24, "versionName": "1.21"}
+{
+  "apkUrl": "https://github.com/hozin-king/HozinNotes/releases/latest",
+  "changelog": "- Statistik catatan: layar baru dari menu ⋯ — ringkasan jumlah, aktivitas 7 hari terakhir & hari paling produktif, total karakter, catatan terpanjang, serta sebaran per folder\n- Kecerahan layar di mode baca: slider kecerahan khusus saat pratinjau catatan, hanya berlaku di aplikasi (tidak mengubah kecerahan sistem)",
+  "force": false,
+  "versionCode": 25,
+  "versionName": "1.22"
+}

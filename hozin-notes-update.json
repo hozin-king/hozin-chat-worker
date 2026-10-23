@@ -1,7 +1,7 @@
 {
-  "apkUrl": "https://github.com/hozin-king/HozinNotes/releases/latest",
-  "changelog": "- Statistik catatan: layar baru dari menu ⋯ — ringkasan jumlah, aktivitas 7 hari terakhir & hari paling produktif, total karakter, catatan terpanjang, serta sebaran per folder\n- Kecerahan layar di mode baca: slider kecerahan khusus saat pratinjau catatan, hanya berlaku di aplikasi (tidak mengubah kecerahan sistem)",
+  "apkUrl": "https://github.com/hozin-king/HozinNotes/releases/download/v1.23/HozinNotes-v1.23.apk",
+  "changelog": "- Riwayat revisi catatan: setiap suntingan tersimpan sebagai revisi, riwayat bisa dibuka dari editor dan versi sebelumnya dapat dipulihkan\n- Cari & ganti teks di dalam editor catatan\n- Perbaikan internal: error compile import NoteRevision & RevisionDao di NoteRepository",
   "force": false,
-  "versionCode": 25,
-  "versionName": "1.22"
+  "versionCode": 26,
+  "versionName": "1.23"
 }

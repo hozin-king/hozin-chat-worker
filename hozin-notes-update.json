@@ -1,7 +1,1 @@
-{
-  "apkUrl": "https://github.com/hozin-king/HozinNotes/releases/download/v1.23/HozinNotes-v1.23.apk",
-  "changelog": "- Riwayat revisi catatan: setiap suntingan tersimpan sebagai revisi, riwayat bisa dibuka dari editor dan versi sebelumnya dapat dipulihkan\n- Cari & ganti teks di dalam editor catatan\n- Perbaikan internal: error compile import NoteRevision & RevisionDao di NoteRepository",
-  "force": false,
-  "versionCode": 26,
-  "versionName": "1.23"
-}
+{"apkUrl":"https://github.com/hozin-king/HozinNotes/releases/latest","changelog":"- Masa tenggang kunci ulang catatan: di Pengaturan > Kunci aplikasi, pilih berapa lama catatan terkunci boleh dibuka tanpa PIN/sidik jari ulang — setiap dibuka (default, seperti sebelumnya), 1 menit, 5 menit, atau 15 menit tanpa aktivitas\n- Tampilan grid catatan kini menyesuaikan lebar layar: ponsel tetap 2 kolom, tablet & mode landscape otomatis jadi 3–4 kolom","force":false,"versionCode":27,"versionName":"1.24"}

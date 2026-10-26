@@ -1,1 +1,7 @@
-{"apkUrl": "https://github.com/hozin-king/HozinNotes/releases/latest", "changelog": "- Kenangan hari ini: di layar Statistik, lihat catatan yang kamu tulis pada tanggal yang sama di tahun-tahun sebelumnya, lengkap dengan keterangan sudah berapa tahun lalu\n- Pengingat terdekat: layar Statistik kini menampilkan pengingat aktif yang paling dekat (hari ini, besok, atau dalam beberapa hari)\n- Ketuk baris kenangan atau pengingat untuk langsung membuka catatannya (catatan terkunci tetap minta PIN/sidik jari seperti biasa)", "force": false, "versionCode": 28, "versionName": "1.25"}
+{
+  "apkUrl": "https://github.com/hozin-king/HozinNotes/releases/latest",
+  "changelog": "- Checklist interaktif di pratinjau: di mode baca (Pratinjau), kotak checklist kini tampil sebagai ☐/☑ dan bisa diketuk langsung untuk mencentang atau membuka tugas, tanpa harus keluar dari mode baca\n- Item checklist yang sudah dicentang tampil tercoret di pratinjau supaya gampang dibedakan dari yang masih berjalan\n- Tautan di dalam catatan tetap bisa diketuk dari mode pratinjau seperti biasa",
+  "force": false,
+  "versionCode": 29,
+  "versionName": "1.26"
+}

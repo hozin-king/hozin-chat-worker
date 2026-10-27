@@ -1,7 +1,1 @@
-{
-  "apkUrl": "https://github.com/hozin-king/HozinNotes/releases/latest",
-  "changelog": "- Checklist interaktif di pratinjau: di mode baca (Pratinjau), kotak checklist kini tampil sebagai ☐/☑ dan bisa diketuk langsung untuk mencentang atau membuka tugas, tanpa harus keluar dari mode baca\n- Item checklist yang sudah dicentang tampil tercoret di pratinjau supaya gampang dibedakan dari yang masih berjalan\n- Tautan di dalam catatan tetap bisa diketuk dari mode pratinjau seperti biasa",
-  "force": false,
-  "versionCode": 29,
-  "versionName": "1.26"
-}
+{"apkUrl":"https://github.com/hozin-king/HozinNotes/releases/latest","changelog":"- Tautan antar-catatan: tulis [[Judul Catatan]] di isi catatan, lalu ketuk tautannya di mode Pratinjau untuk langsung membuka catatan tersebut\n- Menu editor kini punya “Sisipkan tautan catatan” yang menuliskan format [[Judul]] di posisi kursor\n- Penghitung kata kini juga menampilkan estimasi waktu baca (±200 kata per menit) supaya gampang memperkirakan panjang catatan","force":false,"versionCode":30,"versionName":"1.27"}
